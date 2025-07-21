@@ -13,10 +13,10 @@ Then the player tries to guess the number, receiving clues about whether the gue
 
 ## User Guide
 
-#Installation
+# Installation
 Ensure that you have Python installed on your system. The project relies on the following libraries, which can be installed using the following command in projct directory: "pip install -r requirements.txt"
 
-#Usage
+# Usage
 Open your Terminal with Python environment and run the script "numbers_game.py" or "numbers_game_with_UI" in directory where is "player.json".
 Create a new player and remember your ID - you will need it to log in again as this player.
 Choose range of numbers.
